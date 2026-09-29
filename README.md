@@ -42,8 +42,10 @@ The interface is responsive and can be used on desktop computers, notebooks, tab
 
 ### Click below to download the local application
 
-<a href="https://github.com/labrgrupo/PRIDe-RL_shiny/archive/refs/heads/main.zip">
-  <img src="https://img.shields.io/badge/Download%20PRIDe--RL%20Shiny-%23009C3B?style=for-the-badge&logo=github&logoColor=%23009C3B&labelColor=%23FFDF00" alt="Download the PRIDe-RL Shiny Application" style="height:50px;" />
+<a href="https://github.com/labrgrupo/PRIDe-RL_shiny/releases/latest/download/PRIDe-RL-Shiny.zip">
+  <img src="https://img.shields.io/badge/Download%20PRIDe--RL%20Shiny-%23009C3B?style=for-the-badge&logo=github&logoColor=%23009C3B&labelColor=%23FFDF00"
+       alt="Download the PRIDe-RL Shiny Application"
+       style="height:50px;">
 </a>
 
 </div>
