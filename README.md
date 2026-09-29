@@ -1,7 +1,5 @@
 # PRIDe-RL Shiny Application
 
-[![PRIDe-RL Shiny Application](https://img.shields.io/badge/PRIDe--RL%20Shiny%20Application-%230070C0?style=for-the-badge&logoColor=white)](https://github.com/labrgrupo/PRIDe-RL_shiny)
-
 [![License: GPL-3.0](https://img.shields.io/github/license/labrgrupo/PRIDe-RL_shiny.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 [![Last commit](https://img.shields.io/github/last-commit/labrgrupo/PRIDe-RL_shiny/main.svg)](https://github.com/labrgrupo/PRIDe-RL_shiny/commits/main)
 [![Latest release](https://img.shields.io/github/v/release/labrgrupo/PRIDe-RL_shiny?display_name=tag)](https://github.com/labrgrupo/PRIDe-RL_shiny/releases/latest)
