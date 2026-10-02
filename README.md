@@ -77,7 +77,7 @@ The ready-to-use local package is distributed through [**GitHub Releases**](http
 
 The release page contains a quick installation guide. The downloaded package includes a beginner-oriented tutorial in the **`Read_Me/`** folder in Markdown, R Markdown, and PDF formats.
 
-Do not download GitHub's automatically generated **Source code** archives if you want the ready-to-use package. Use the file named **`PRIDe-RL-Shiny.zip`** under **Assets**.
+Do not download GitHub's automatically generated **Source code** archives if you want the ready-to-use package. Use the file named **`PRIDE-RL-Shiny-v1.17.29.zip`** under **Assets**.
 
 ---
 
