@@ -63,7 +63,7 @@ The **PRIDe-RL score** integrates these four dimensions into a single measure ra
 
 ## Local application download
 
-The ready-to-use local package is distributed through [**GitHub Releases**](https://github.com/labrgrupo/PRIDE-RL-Shiny-v1.17.29/releases). Open the latest release and, under **Assets**, download **`PRIDE-RL-Shiny-v1.17.29.zip`**.
+The ready-to-use local package is distributed through [**GitHub Releases**](https://github.com/labrgrupo/PRIDe-RL_shiny/releases/tag/v1.17.29). Open the latest release and, under **Assets**, download **`PRIDE-RL-Shiny-v1.17.29.zip`**.
 
 <div align="center">
 
